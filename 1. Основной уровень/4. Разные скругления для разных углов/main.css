@@ -1,0 +1,14 @@
+div {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+  border: 2px solid red;
+}
+
+.elem1 {
+  border-radius: 10px 20px 40px 70px;
+}
+
+.elem2 {
+  border-radius: 20px 40px;
+}
