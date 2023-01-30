@@ -1,0 +1,20 @@
+div {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 20px;
+}
+
+.elem1 {
+  border: 2px solid green;
+  border-radius: 30px;
+}
+
+.elem2 {
+  background-color: #4DEE99;
+  border-radius: 30px;
+}
+
+.elem3 {
+  border: 2px solid green;
+  border-radius: 50%;
+}
