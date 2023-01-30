@@ -1,0 +1,11 @@
+div {
+  width: 300px;
+  height: 100px;
+}
+
+.elem1 {
+  border-left: 3px solid #FFB01F;
+  border-top: 3px solid #0000FF;
+  border-right: 3px solid red;
+  border-bottom: 3px solid #FF0000;
+}
